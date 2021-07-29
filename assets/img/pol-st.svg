@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="503.69" height="445.56" viewBox="0 0 503.69 445.56">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #e3e3e3;
+        stroke: #7abbf4;
+        stroke-linejoin: round;
+        stroke-width: 57px;
+        fill-rule: evenodd;
+        opacity: 0.15;
+        filter: url(#filter);
+      }
+    </style>
+    <filter id="filter" x="1016.69" y="3594.28" width="446.69" height="388.56" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#fff"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g transform="translate(-988.19 -3565.78)" style="fill: #e3e3e3; filter: url(#filter)">
+    <path id="Polygon_3_copy_2" data-name="Polygon 3 copy 2" class="cls-1" d="M1016.67,3786.86l113.16-192.57,223.35,1.71,110.19,194.28-113.16,192.57-223.35-1.71Z" style="stroke: inherit; filter: none; fill: inherit"/>
+  </g>
+  <use transform="translate(-988.19 -3565.78)" xlink:href="#Polygon_3_copy_2" style="stroke: #7abbf4; filter: none; fill: none"/>
+</svg>
